@@ -14,3 +14,7 @@ Wasabi Wallet
 EFF Electronic Frontier Foundation https://www.eff.org/pages/other-ways-give-and-donor-support#crypto
 
 - Legal Defense funds
+
+Nonprofit accepting BTC
+
+https://directory.btcpayserver.org/non-profit/
